@@ -7,6 +7,7 @@
 ### I am a ML Engineer at Kinexon, and MSc Informatics, TU Munich
 
 - Pose estimations and action recognition models built on top of the keypoints
+- Areas: Algorithms, Machine Learning, Computer Vision, Full Stack Web Development
 - Competitive Programming Master in algorithms
 - Here is my [GitHub Page](https://metehkaya.github.io/) and [CV](https://metehkaya.github.io/data/MetehanKaya_CV.pdf)
 - Reach out to me: [Linkedin](https://www.linkedin.com/in/kayametehan/)
